@@ -1,1 +1,9 @@
-# WINS - The BarelasGig network uses modern millimeter wave (mmwave) technology to provide fixed wireless gigabit backhaul and last mile broadband connectivity for a fraction of the cost of full fiber deployment. Fixed wireless technology offers cost-effective connectivity in the underserved and economically disadvantaged community of Barelas just south of downtown Albuquerque, New Mexico. We’re deploying technology that is robust, weather resistant, and leaps over many of the obstacles, complexities, and costs of laying fiber to the home or business. The BarelasGig working prototype is now providing 1Gbps to homes, businesses, chamber of commerce, community center, economic development center, and street-level WiFi.
+# WINS - The BarelasGig working prototype uses modern
+millimeter wave (mmwave) technology to provide fixed wireless gigabit
+backhaul and last mile broadband connectivity for a fraction of the cost
+of full fiber deployment. This fixed wireless technology now provides
+cost effective connectivity in the underserved and economically
+disadvantaged community of Barelas just south of downtown
+Albuquerque. This technology is robust, weather resistant, and leaps
+over many of the obstacles, complexities and costs of laying fiber to
+the home or business.
